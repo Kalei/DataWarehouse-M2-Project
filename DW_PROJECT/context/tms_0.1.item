@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<talendfile:ContextType xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:talendfile="platform:/resource/org.talend.model/model/TalendFile.xsd" confirmationNeeded="false" name="Default">
+  <contextParameter comment="" name="tms_AdditionalParams" prompt="tms_AdditionalParams?" promptNeeded="false" type="id_String" value="noDatetimeStringSync=true"/>
+  <contextParameter comment="" name="tms_Password" prompt="tms_Password?" promptNeeded="false" type="id_Password" value="8CRNql2/2JY="/>
+  <contextParameter comment="" name="tms_Login" prompt="tms_Login?" promptNeeded="false" type="id_String" value="uapv9906226"/>
+  <contextParameter comment="" name="tms_Port" prompt="tms_Port?" promptNeeded="false" type="id_String" value="3306"/>
+  <contextParameter comment="" name="tms_Server" prompt="tms_Server?" promptNeeded="false" type="id_String" value="pedago01a.univ-avignon.fr"/>
+  <contextParameter comment="" name="tms_Database" prompt="tms_Database?" promptNeeded="false" type="id_String" value="uapv9906226"/>
+</talendfile:ContextType>
